@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/grandpasorchard1/grandpas-orchard/static/css/main.2aeda02b.css",
-    "main.js": "/grandpasorchard1/grandpas-orchard/static/js/main.e9b48b46.js",
-    "static/js/453.5473875a.chunk.js": "/grandpasorchard1/grandpas-orchard/static/js/453.5473875a.chunk.js",
-    "static/media/orchard-bg.jpg": "/grandpasorchard1/grandpas-orchard/static/media/orchard-bg.ed2dbf28506847a3706f.jpg",
-    "static/media/founder.jpg": "/grandpasorchard1/grandpas-orchard/static/media/founder.8a68c3daf81fa98c1560.jpg",
-    "static/media/logo.png": "/grandpasorchard1/grandpas-orchard/static/media/logo.d44de2c3b6d66af0f42e.png",
-    "index.html": "/grandpasorchard1/grandpas-orchard/index.html",
-    "main.2aeda02b.css.map": "/grandpasorchard1/grandpas-orchard/static/css/main.2aeda02b.css.map",
-    "main.e9b48b46.js.map": "/grandpasorchard1/grandpas-orchard/static/js/main.e9b48b46.js.map",
-    "453.5473875a.chunk.js.map": "/grandpasorchard1/grandpas-orchard/static/js/453.5473875a.chunk.js.map"
+    "main.css": "/static/css/main.2aeda02b.css",
+    "main.js": "/static/js/main.ba8b5b61.js",
+    "static/js/453.5473875a.chunk.js": "/static/js/453.5473875a.chunk.js",
+    "static/media/orchard-bg.jpg": "/static/media/orchard-bg.ed2dbf28506847a3706f.jpg",
+    "static/media/founder.jpg": "/static/media/founder.8a68c3daf81fa98c1560.jpg",
+    "static/media/logo.png": "/static/media/logo.d44de2c3b6d66af0f42e.png",
+    "index.html": "/index.html",
+    "main.2aeda02b.css.map": "/static/css/main.2aeda02b.css.map",
+    "main.ba8b5b61.js.map": "/static/js/main.ba8b5b61.js.map",
+    "453.5473875a.chunk.js.map": "/static/js/453.5473875a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aeda02b.css",
-    "static/js/main.e9b48b46.js"
+    "static/js/main.ba8b5b61.js"
   ]
 }
